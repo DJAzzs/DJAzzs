@@ -1,1 +1,1 @@
-👋 Hi, I’m @DJAzzs & LJKzzs,we are from Huanyu Workshop,and this game is made whit c++,I hope you enjoy it!
+👋 Hi, I’m D.J.A.!I'm from China,and I'm a one-person developer.My favorite direction are LLM & Game,so I'm also a game-maker.Now,I'm working on a special LLM project called TETRA,hope to see you guys soon on that project!
